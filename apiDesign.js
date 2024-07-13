@@ -93,6 +93,6 @@ module.exports = router;
 // Please Find Answers Here 
 // 1.Vertical and horizontal scaling strategies should be considered
 // 2.input validation, authentication, update libraries/frameworks. remove if existing or don't use  library that are vulnerable to attacks.
-// 3.automated testing and deployment.
-// 4.Utilize Server logging
+// 3.I usally use Heroku or render.com for my server side deployments, Where Commiting in github Code Starts build process and deployment.
+// 4.Utilize Server logging 
 // 5.either Mean or Mern 
